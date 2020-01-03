@@ -3,3 +3,4 @@
 # <a href="https://axiaoh.github.io/xiaohanweb/">前往软件下载站</a>
 
 # 网站尚未建立完毕
+<link rel="shortcut icon" href="/favicon1.ico" type="image/x-icon" />
