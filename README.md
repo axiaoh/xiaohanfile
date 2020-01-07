@@ -6,7 +6,7 @@
 Date("1/1/2020 0:00:00");
 Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;
 a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);
-runtime_span.innerHTML="本站勉强运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>
+runtime_span.innerHTML="本站已在github.com发布"+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>
 
 # 网站尚未建立完毕
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
