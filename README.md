@@ -1,5 +1,6 @@
 # 欢迎来到一枚新生的小涵的file空间<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1115058004&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1115058004:51" alt="和我核平交谈" title="和我核平交谈"/></a>
 你阔以在这里下载一些资源.
+请不要使用翻译，否则可能会出现乱码.
 <span id="runtime_span"></span>
 <script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new 
 Date("1/1/2020 0:00:00");
