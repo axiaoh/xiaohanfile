@@ -9,6 +9,10 @@ a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*6
 runtime_span.innerHTML="本站已在github.com发布"+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>
 
 # 网站尚未建立完毕
+# 毕节弘文中学初2018级1版文件
+## 七年级下册课前三分钟
+### 语文
+###
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 ### 友情链接 <a href="http://file.xiaiisme.club/">文件站</a><a href="https://home.edgeless.top/">Edgeless</a><a href="http://beta.xiaiisme.club/">测试站</a><a href="http://chat.xiaiisme.club/">闲聊站</a><a href="http://apps.xiaiisme.club/">软件站</a>
 
