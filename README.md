@@ -16,6 +16,4 @@ runtime_span.innerHTML="本站已在github.com发布"+A+"天"+B+"小时"+C+"分"
 ### <a href="http://t.cn/Aisa9W3f/">语文</a>
 ### <a href="http://t.cn/Aisa99Wk/">英语</a>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-### 友情链接 <a href="http://file.xiaiisme.club/">文件站</a><a href="https://home.edgeless.top/">Edgeless</a><a href="http://beta.xiaiisme.club/">测试站</a><a href="http://chat.xiaiisme.club/">闲聊站</a>
-
-
+### 友情链接 <a href="http://apps.xiaiisme.club/">软件站</a><a href="http://file.xiaiisme.club/">文件站</a><a href="http://chat.xiaiisme.club/">闲聊站</a><a href="http://beta.xiaiisme.club/">测试站</a><a href="https://home.edgeless.top/">Edgeless</a>
